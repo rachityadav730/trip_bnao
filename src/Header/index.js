@@ -1,9 +1,9 @@
 import React from 'react'
-import Navbar from './navbar'
+import Navbars from './navbar'
 const Index = () => {
   return (
     <div>
-      <Navbar/>
+      <Navbars/>
     </div>
   )
 }
