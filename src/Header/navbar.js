@@ -15,8 +15,8 @@ const Navbars = () => {
         .then(res => {
           const persons = res.data;
           console.log("data",res.data)
-          setName(res.data[0].name)
-          setPassword(res.data[0].password)
+          // setName(res.data[0].name)
+          // setPassword(res.data[0].password)
 
         })
 
