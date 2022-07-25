@@ -11,7 +11,7 @@ const Navbars = () => {
     
     useEffect(()=>{
 
-        axios.get('https://railtrip.herokuapp.com/api/v1/users')
+        axios.get('http://localhost:3000/api/v1/users')
         .then(res => {
           const persons = res.data;
           console.log("data",res.data)

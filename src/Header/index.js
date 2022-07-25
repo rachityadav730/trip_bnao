@@ -1,9 +1,11 @@
 import React from 'react'
 import Navbars from './navbar'
+import Section from './section'
 const Index = () => {
   return (
     <div>
-      <Navbars/>
+      <Section/>
+      {/* <Navbars/> */}
     </div>
   )
 }

@@ -1,9 +1,11 @@
 import React from 'react'
 import Main from './main'
+import Ordertype from './ordertype'
 const index = () => {
   return (
     <div>
-      <Main/>
+      <Ordertype/>
+      {/* <Main/> */}
     </div>
   )
 }
