@@ -43,7 +43,7 @@ const Navbars = () => {
               height="30"
               className="d-inline-block align-top"
             />
-            Trip Banao
+            Trip Banao Demo Branch
           </Navbar.Brand>
         </Container>
       </Navbar>
