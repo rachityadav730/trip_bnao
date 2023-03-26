@@ -43,7 +43,7 @@ const Navbars = () => {
               height="30"
               className="d-inline-block align-top"
             />
-            Trip Banao Demo Branch
+            Trip Banao Demo Branch add new branch add more line in demo branch and another branch
           </Navbar.Brand>
         </Container>
       </Navbar>
