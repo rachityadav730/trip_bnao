@@ -5,7 +5,7 @@ const Index = () => {
   return (
     <div>
       <Section/>
-      {/* <Navbars/> */}
+      <Navbars/>
     </div>
   )
 }
